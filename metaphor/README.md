@@ -18,9 +18,9 @@ The [local](https://docs.kubefirst.com/kubefirst/local/install.html) deployed in
 
 | environment | url                                          |
 | ----------- | -------------------------------------------- |
-| development | `https://metaphor-development.kubefirst.dev` |
-| staging     | `https://metaphor-staging.kubefirst.dev`     |
-| production  | `https://metaphor-production.kubefirst.dev`  |
+| development | `https://metaphor-development.maxiar.dev` |
+| staging     | `https://metaphor-staging.maxiar.dev`     |
+| production  | `https://metaphor-production.maxiar.dev`  |
 
 `metaphor` currently demonstrates the following capabilities:
 
